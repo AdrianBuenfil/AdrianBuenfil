@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Adrián Buenfil</h1>
 <h3 align="center">A passionate Audio DSP Software Engineer</h3>
 
-- 🔭 I’m currently working on Audio in Embedded Systems
+<h1 align="center">- 🔭 I’m currently working on Audio in Embedded Systems</h1>
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Audio and DSP applications
 - 🤔 I’m looking for help with Embedded C++
