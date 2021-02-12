@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Audio DSP Software Engineer</h3>
 
 - 🔭 I’m currently working on Audio in Embedded Systems
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DSP
 - 👯 I’m looking to collaborate on Audio and DSP applications
 - 🤔 I’m looking for help with Embedded C++
 - 💬 Ask me about DSP and Telecommunications Theory
