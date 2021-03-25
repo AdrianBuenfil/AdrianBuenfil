@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, I'm Adrián Buenfil</h1>
-<h3 align="center">A passionate Audio DSP Software Engineer</h3>
+<h3 align="center">A passionate Embedded Audio Software Engineer</h3>
 
 - 🔭 I’m currently working on Audio in Embedded Systems
 - 🌱 I’m currently learning DSP
